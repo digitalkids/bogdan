@@ -1,0 +1,74 @@
+.red-text {
+  color: white;
+  font-weight: bold;
+  font-size: 23px;
+}
+
+#youtube {
+  border: 15px solid white;
+  border-radius: 50px;
+  margin-left: 250px;
+  margin-right: 335px;
+  border-color:#19D4D4;
+}
+
+.blue-text {
+  font-size: 23px;
+  color:#66FFFF;
+}
+
+.black-text {
+  color: brown;
+  margin-left: 20px;
+  font-size: 23px;
+}
+
+.border {
+  color: yellow;
+  margin-left: 130px;
+  margin-right: 176px;
+  margin-bottom: 0px;
+  padding: 0;
+  height: 337px;
+  border: solid;
+}
+
+body {
+  background-image: url("http://truereality.org/wp-content/uploads/2014/02/hubble-space-wallpapers.jpg");
+}
+
+.fain {
+  color: white;
+  font-size: 23px;
+}
+
+.Teemo {
+  width: 600px;
+}
+
+.text1 {
+  font-size: 23px;
+  color: blue
+}
+
+
+p:hover {
+  color:#F5F505;
+  text-align: right;
+  text-transform: capitalize;
+}
+
+h1{
+  color:#F5F505;
+  text-align:center;
+}
+h1:hover {
+  text-transform:uppercase;
+}
+.nustiu {
+  color:red;
+  font-size:23px;
+}
+.Teemo:hover {
+  change
+}
